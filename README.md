@@ -8,8 +8,8 @@ Process received raw data with help of PySpark & Databricks through Azure's Data
 
 
 ## Project requirements
-+ Find players that had most points, assists, blocks in last decade
-+ Find most efficient player in the league in terms of 2 & 3 points made
++ Find players that had most points, assists, blocks in (one game, whole season, last decade, all-time) 
++ Find most efficient player in the league in terms of 2 & 3 points made shot %
 + Present league champions in last decade including year, team, MVP of the season
 + Present NBA champions throughout the history
 + Find teams that have won conference finals many times but never won the league
