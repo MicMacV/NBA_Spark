@@ -10,7 +10,7 @@ Process received raw data with help of PySpark & Databricks through Azure's Data
 ## Project requirements
 + Find most efficient team & player in the league
 + Present league champions in last decade including year, team, MVP of the season
-+ Find players that had most points, assists, blocks during the season,
++ Find players that had most points, assists, blocks in last decade
 
 
 
