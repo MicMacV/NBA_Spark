@@ -1,20 +1,19 @@
 # **NBA - PySpark & Databricks**
 
 ## Project objective
-Process received raw data with help of PySpark & Databricks through Azure's Data Factory and Delta Lake in order to present visualizations of most dominant team and driver <br /><br />
+Process received raw data with help of PySpark & Databricks in order to present visualizations in PowerBI<br /><br />
 
 
 ## Data source
 
 
 ## Project requirements
-+ Find players that had most points in every season for last decade
-+ Find most efficient players in the league in terms of 3 points made shot % (find correlation on chart)
-+ Present coaches who had most wins during the regular season and rank them
-
-+ Present league champions in last decade including year, team, MVP of the season
-+ Present NBA champions throughout the history
-+ Find teams that have won conference finals many times but never won the league
++ Show players who scored the most points in last 10 seasons since 2020 and rank them points descending (include their team at that time)
++ Find most efficient player in the league in terms of 3 points made (shot %) - Prepare a chart
++ Display and compare highest TOP 5 scores of Golden State Warriors with Cleveland Cavaliers in 2014 (HOME & AWAY)
++ Present top 10 most efficient players in terms of average points per game found in data set
++ Present top 3 coaches who had most wins during the regular season for 2014 and rank them
++ Show stats of 4 random players for 2014
 
 
 
