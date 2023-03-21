@@ -1,11 +1,12 @@
 # **NBA - PySpark & Databricks**
 
 ## Project objective
-Process received raw data with help of PySpark & Databricks in order to present visualizations in PowerBI<br /><br />
+Process received raw data with help of PySpark & Databricks in order to present visualizations in PowerBI <br />
 
 
 ## Data source
-
+Thanks to Nathan Lauga who shared the nba dataset under the link below </br>
+https://www.kaggle.com/datasets/nathanlauga/nba-games
 
 ## Project requirements
 + Show players who scored the most points in last 10 seasons since 2020 and rank them points descending (include their team at that time)
