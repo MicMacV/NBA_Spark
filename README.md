@@ -1,7 +1,7 @@
 # **NBA - PySpark & Databricks**
 
 ## Project objective
-Process received raw data with help of PySpark & Databricks in order to present visualizations in PowerBI <br />
+Process received raw data with help of PySpark & Databricks in order to present visualizations in PowerBI (visualizations in progress)<br />
 
 
 ## Data source
